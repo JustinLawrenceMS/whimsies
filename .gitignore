@@ -1,0 +1,12 @@
+# Environment files
+.env
+
+# Logs
+logs/
+
+# Python virtualenv
+.venv/
+
+# Byte-compiled / cache
+__pycache__/
+.pytest_cache/

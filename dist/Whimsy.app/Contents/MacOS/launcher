@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec "/Users/cotton_west/vicenta/.venv/bin/python" "/Users/cotton_west/vicenta/whimsy_gui.py"
